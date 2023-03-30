@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Soroush</h1>
-<h3 align="center">A passionate Backend developer with over 4 years of experience</h3>
 
 [![wakatime](https://wakatime.com/badge/user/3886e102-1279-47a0-9fe8-a435bcd1b914.svg)](https://wakatime.com/@3886e102-1279-47a0-9fe8-a435bcd1b914)
 
